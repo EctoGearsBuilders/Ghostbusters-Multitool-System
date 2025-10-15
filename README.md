@@ -16,4 +16,4 @@ The wiring diagram is included in some projects and the firmware i provided are 
 
 Yes. All i provided are wiring diagram, firmware and 3d files. You have to do all the printing, wiring, assembling with some elbow grease and brainwork.  With all the various versions and types of packs out there, it's impossible for me to provide a step-by-step pack specific guide.
 
-The diagram and firmware is enough to make the equipments but you will need to figure out how to attach it to your pack on your own. To me, that's the fun of it. 
+The diagram and firmware is enough to make the equipments but you will need to figure out how to attach it to your pack on your own. Will these be updated ? The answer is NO.
