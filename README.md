@@ -10,7 +10,7 @@ Switch Board is designed to be added to a proton pack that is already has its ow
 
 ##  Complete Multitool System
 
-The neutrona board is a total 100% replacement and uses 100% capability of the Multitool System. It can work on it's own. This includes changing animations type, speed, led color or behaviours. What about the pack board ? Don't have it.
+The neutrona board is a total 100% replacement and uses 100% capability of the Multitool System. It can work on it's own. This includes changing animations type, speed, led color or behaviours directly from the HMI (Ectogears Version). What about the pack board ? Don't have it yet.
 
 ##  3D Files
 
