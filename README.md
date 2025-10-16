@@ -29,6 +29,6 @@ Yes. All i provided are wiring diagram, firmware and 3d files. You have to do al
 The diagram and firmware is enough to make the equipments but you will need to figure out how to attach it to your pack on your own. Will these be updated ? NO.
 
 
-##  Ectogears is officially closed ?
+##  Ectogears is permanently closed ?
 
 Yes. 
