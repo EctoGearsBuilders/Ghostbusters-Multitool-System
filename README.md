@@ -26,9 +26,9 @@ The wiring diagram is included in some projects and the firmware i provided are 
 
 Yes. All i provided are wiring diagram, firmware and 3d files. You have to do all the printing, wiring, assembling with some elbow grease and brainwork.  With all the various versions and types of packs out there, it's impossible for me to provide a step-by-step pack specific guide.
 
-The diagram and firmware is enough to make the equipments but you will need to figure out how to attach it to your pack on your own. Will these be updated ? NO.
+The diagram and firmware is enough to make the equipments but you will need to figure out how to attach it to your pack on your own. Will these be updated ? Maybe but most likely NO.
 
 
 ##  Ectogears is permanently closed ?
 
-Yes. 
+Yes. Thanks to someone who stopped the De Minimis, couple day after i send alot of orders out, all of those parcels are now stuck in a warehouse somewhere unable to move due to shipping service to US being SUSPENDED. At this time 4th November 2025, it still SUSPENDED. The best part is, postal said they can't help me out or know when the service will resume. There's alot of refunds issued because of this. Then when the service resumes god knows when, you get the products because, i already send them out. At this point i dont give a f. Ectogear will be now and permanently CLOSED.
