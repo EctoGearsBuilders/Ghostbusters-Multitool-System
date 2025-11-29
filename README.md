@@ -3,6 +3,12 @@
 
 Here's is where Ectogears guides, 3D files , firmware are located. The idea of the Multitool system is individually controlled parts. Where you can just make a part to add to the existing system. 
 
+
+##  Standalone Hybrid Modular Interface Device
+
+This is the simplest version of the HMI device. I have sold out multiple universal units but it seems its far too complicated to rewire. So you can get the latest firmware of this with a minor buzzing issue fix . Simply flash it to convert to standalone version.
+
+
 ##  Piggyback Multitool System
 
 Switch Board is designed to be added to a proton pack that is already has its own electronic board. Without interering with the current electronics, Switch board uses the buttons, toggles at the Neutrona wand to know what is the proton pack states now and then communicate with the other multitool system boards.
@@ -31,4 +37,4 @@ The diagram and firmware is enough to make the equipments but you will need to f
 
 ##  Ectogears is permanently closed ?
 
-Yes. Thanks to someone who stopped the De Minimis, couple day after i send alot of orders out, all of those parcels are now stuck in a warehouse somewhere unable to move due to shipping service to US being SUSPENDED. At this time 4th November 2025, it still SUSPENDED. The best part is, postal said they can't help me out or know when the service will resume. There's alot of refunds issued because of this. Then when the service resumes god knows when, you get the products because, i already send them out. At this point i dont give a f. Ectogear will be now and permanently CLOSED.
+Yes. Thanks to someone, Ectogear will be now and permanently CLOSED.
