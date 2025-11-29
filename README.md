@@ -4,9 +4,9 @@
 Here's is where Ectogears guides, 3D files , firmware are located. The idea of the Multitool system is individually controlled parts. Where you can just make a part to add to the existing system. 
 
 
-##  Standalone Hybrid Modular Interface Device
+##  Convert Hybrid Modular Interface Device
 
-This is the simplest version of the HMI device. I have sold out multiple universal units but it seems its far too complicated to rewire. So you can get the latest firmware of this with a minor buzzing issue fix . Simply flash it to convert to standalone version.
+This is the simplest version of the HMI device. I have sold out multiple universal units but it seems its far too complicated to rewire a few wires. So you can get the latest firmware of this with a minor buzzing issue fix . Simply flash it to convert to standalone version.
 
 
 ##  Piggyback Multitool System
